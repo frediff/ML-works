@@ -8,6 +8,6 @@ to 1000. The dataset is used for a binary classification task. We have splitted 
 set is the test set. 
 
 Finally we compare the performance of our implementation to that of logistic regression 
-available in sklearn.
+available in `scikit`.
 
 The `result.txt` file contains the accuracies of the two models.
