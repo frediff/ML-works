@@ -1,2 +1,0 @@
-Accuracy of CNN: 86.66666666666667
-Accuracy of K-NN: 73.33333333333333
