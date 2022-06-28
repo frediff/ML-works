@@ -1,6 +1,6 @@
 ## Neural Networks
 ### This project consists of two parts:
-- **The first part consists of understanding the role of network configuration when 
+- **The first part (`model_part1.ipynb`) consists of understanding the role of network configuration when 
 the number of parameters are kept the same for different configurations.** </br></br>
 We designed three different fully connected neural net where each of them have the same 
 number of parameters (call it N) and the same number of layers (call it L). L includes all hidden 
@@ -20,11 +20,11 @@ number of parameters N to roughly 100000 and number of layers L to 10. For simpl
 of neurons in the first hidden layer to 50 for all the three cases. We use batch normalization and 
 dropout (with 0.3). We also use adam optimizer with learning rate 0.0001. Furtheer we use Xavier initialization. We also use 
 RELU activation and in the last layer we use softmax. Here the error function is cross entropy. </br></br>
-The `output.txt` file contains the accuracy values for all three nets. </br></br>
-- **The second part involves implementing (from scratch) a Neural Network and training it using backpropagation algorithm.** </br></br>
+The `output_1.txt` file contains the accuracy values for all three nets. </br></br>
+- **The second part (`model_part2.ipynb`) involves implementing (from scratch) a Neural Network and training it using backpropagation algorithm.** </br></br>
 Here we implement backpropagation from scratch and use it to train a fully connected neural net with 
 mini-batch vanilla gradient descent. We test our implementation on MNIST data. To check 
 correctness of our implementation, we also implement the same net using standard libraries and 
 train with the exactly same settings. </br></br>
-The `output.txt` file contains the accuracy of the above two implementations on MNIST 
+The `output_2.txt` file contains the accuracy of the above two implementations on MNIST 
 data.
