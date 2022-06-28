@@ -1,2 +1,11 @@
-# CNN-vs-k-NN
-This project compares two machine learning models : Condensed Nearest Neighbour and k-Nearest Neighbour Classification on a dataset pertaining to risk of Cervical Cancer.
+### This project involves coding some standard Machine Learning Models and testing them on some dataset. The following concepts are implemented:
+- CNN vs k-NN
+- Logistic Regression
+- Neural Networks
+- Decision Tree and Random Forest
+- XGBoost vs SVM
+- HAC
+- Regression
+
+*See the readme files of individual directories to know more about the implementation of a particular concept.*
+
