@@ -1,0 +1,2 @@
+Accuracy of My_Neural_Net from code written from scratch : 0.197
+Accuracy of MyNet using standard library : 0.09799999743700027

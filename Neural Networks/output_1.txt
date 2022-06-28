@@ -1,0 +1,3 @@
+Accuracy of UniformNet: 0.9509999752044678
+Accuracy of PyramidNet: 0.9538000226020813
+Accuracy of InvPyramidNet: 0.9320999979972839
