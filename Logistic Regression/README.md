@@ -1,6 +1,6 @@
 ## Logistic Regression
 
-Here we write a code from scratch to train logistic regression for the data given in the [link](https://archive.ics.uci.edu/ml/datasets/Cervical+Cancer+Behavior+Risk)
+Here we write a code (`model_LR.ipynb`) from scratch to train logistic regression for the data given in the [link](https://archive.ics.uci.edu/ml/datasets/Cervical+Cancer+Behavior+Risk)
 using stochastic gradient descent.
 
 The batch size is set to 1, learning rate to 0.001 and the number of iterations 
