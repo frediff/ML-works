@@ -8,7 +8,7 @@ Now we separate the target column(‘Day’) from the dataset and convert it fro
 
 We then visualize the dendogram of the data. 
 
-After this we implement (from scratch) ***Hierarchical Agglomerative*** clustering with single and complete linkage both to cluster the dataset. 
+After this we implement (from scratch) ***Hierarchical Agglomerative Clustering*** with single and complete linkage both to cluster the dataset. 
 
 Then we plot the resultant clusters in scatter plot. 
 
