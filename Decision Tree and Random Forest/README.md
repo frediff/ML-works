@@ -1,6 +1,6 @@
 ## Decision Tree and Random Forest
 
-### Problem 1: ###
+### Problem 1: (`model_prob1.ipynb`) ###
 We use the attached dataset called `annualrainfall.mat`. It contains a single matrix called XR that is 357x118. Each row refers to a 
 location in India and each column refers to a year. We carry out the following steps:
 - For each year, we calculate the total rainfall over all the locations. We calculate the mean (m) and 
@@ -21,7 +21,7 @@ regions. Once again, we use the first 100 years for training with 5-fold cross-v
 years for testing.
 - We repeat the previous step with random forest. 
 
-### Problem 2: ###
+### Problem 2: (`model_prob2.ipynb`) ###
 We download the MNIST dataset of handwritten digits 0-9. In each image we try to predict the label (0-9) 
 using the pixel values. We train a decision tree of depth 20 and a random forest for this purpose.
 We will increase the depth till 50 until we find a satisfactory accuracy. For each image class, we use 75% images for training 
