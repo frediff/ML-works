@@ -6,3 +6,6 @@ ISMR can be predicted using the potential drivers, but the lags can be different
 Then we plot the true values vs predicted values of ISMR in scatter plots for different lags separately. We try to find out which lag is statistically showing best results.
 
 We repeat the experiment for ***SVM*** with different kernel values to find the best performing one. We use grid search method to find the best performance.
+
+- `model_XGBOOST.ipynb` contains the experiment using XGBOOST
+- `model_SVM.ipynb` contains the experiment using SVM
