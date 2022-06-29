@@ -1,5 +1,5 @@
 ## CNN vs K-NN
-The goal of this project is to classify a sample into two categories as described in the dataset (given 
+The goal of this project (`model_NN.ipynb`) is to classify a sample into two categories as described in the dataset (given 
 in this [link](https://archive.ics.uci.edu/ml/datasets/Cervical+Cancer+Behavior+Risk)). We try to compare 
 condensed k-nearest neighbour (CNN in short) and simple k-nearest neighbour (k-NN in short) in their ability to classify the points.
 
