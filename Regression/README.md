@@ -1,4 +1,4 @@
-The `Data.csv` file containing 294 rows and 10 columns
+The `data.csv` file containing 294 rows and 10 columns
 (`?` refers to not available value)
 The features that need to be considered are:
 
