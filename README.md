@@ -1,4 +1,4 @@
-### This project involves coding some standard Machine Learning Models and testing them on some dataset. The following concepts are implemented:
+### This project involves coding some standard Machine Learning Models and testing them on some data-set. The following concepts are implemented:
 - CNN vs k-NN
 - Logistic Regression
 - Neural Networks
